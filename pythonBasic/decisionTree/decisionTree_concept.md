@@ -25,9 +25,9 @@
         2. 과적합화를 피하기 위해 불필요한 가지(정보 제공이 적은 가지)를 제거함으로써 나무를 단순화하는 작업이 이루어지게 됨
 ![treesEX](https://media.springernature.com/lw785/springer-static/image/prt%3A978-1-4899-7687-1%2F4/MediaObjects/978-1-4899-7687-1_4_Part_Fig1-66_HTML.gif)
 > 출처 https://link.springer.com/referenceworkentry/10.1007/978-1-4899-7687-1_66
-3. 단점 : 과적합화 문제
+    3. 단점 : 과적합화 문제
 ![overfit](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_OoUfSv7AsYBwzg6wllenoUXAOI17o3DExw&usqp=CAU)
 > 출처 https://vitalflux.com/overfitting-underfitting-concepts-interview-questions/
-    1. 과적합화의 해소 방법 
-        1. 가지치기 : 적당한 수준에서 나무의 성장을 중단시킴
-        2. 랜덤 포레스트
+        1. 과적합화의 해소 방법 
+            1. 가지치기 : 적당한 수준에서 나무의 성장을 중단시킴
+            2. 랜덤 포레스트
